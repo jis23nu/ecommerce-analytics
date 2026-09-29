@@ -46,18 +46,22 @@ The analysis focuses on identifying trends in sales and profitability, comparing
 
 ## Key Insights
 
-- Technology is one of the major contributors to overall sales.
-- Profitability varies significantly across product categories.
-- Regional performance differs in both sales and profitability.
-- Shipping mode affects delivery time and operational efficiency.
-- Sales and profit show different patterns over time, highlighting the importance of monitoring both revenue and profitability.
+## Key Insights
+
+- Furniture generated approximately $742K in sales but achieved only a 2.49% profit margin, significantly below Technology and Office Supplies at approximately 17%.
+- Regional profitability varies considerably, with the Central region recording the lowest profit margin at 7.92% despite generating approximately $501K in sales.
+- Two customers generated more than $10K in sales while remaining unprofitable: Sean Miller ($25.0K sales, -$2.0K profit) and Becky Martin ($11.8K sales, -$1.7K profit).
+- Technology generated the highest total sales at approximately $836K and the highest total profit at approximately $145K.
+- The analysis shows that high sales volume does not always translate into strong profitability, highlighting the importance of monitoring both revenue and profit margin.
 
 ## Recommendations
 
-- Monitor product categories with strong sales but lower profitability.
-- Investigate regional differences in sales and profit performance.
-- Review shipping modes to identify opportunities for improving delivery efficiency.
-- Track sales and profitability trends regularly to support better business decisions.
+## Recommendations
+
+- Investigate the low profitability of the Furniture category to identify products, discounts, or pricing factors contributing to the 2.49% profit margin.
+- Review performance in the Central region to understand the factors behind its lower 7.92% profit margin.
+- Monitor high-sales customers with negative profitability to identify unprofitable products, discounts, or order patterns.
+- Track both sales and profit margin when evaluating business performance rather than relying on revenue alone.
 
 ## Project Structure
 
